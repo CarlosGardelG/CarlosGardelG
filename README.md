@@ -1,3 +1,5 @@
+![download](https://github.com/user-attachments/assets/3b94a8d8-e625-49df-acc3-6aea85eb4c35)
+
 # 👋 Olá! Eu sou Carlos Gardel
 
 Seja bem vindo ao meu **GitHub!** 
@@ -24,4 +26,4 @@ Estudante do curso de **Técnico em Informática pelo IFAL**, sou um apaixonado 
   </a>
 </p> 
 
-## **✝ SOLI DEO GLORIA**
+## **✝ SOLI DEO GLORIA
