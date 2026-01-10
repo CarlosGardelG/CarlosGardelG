@@ -3,7 +3,7 @@
 
 Seja bem vindo ao meu **GitHub!** 
 
-Estudante do curso de **Técnico em Informática pelo IFAL**, sou um apaixonado por tecnologias e me aventuro nesse mundo da programação, com conhecimentos em **Full-Stack**. !
+Estudante do curso de **Técnico em Informática pelo IFAL**, sou um amante por tecnologias e me aventuro nesse mundo da programação com conhecimentos em **Full-Stack**. !
 
 ## 🎧 Sobre mim
 - 🎸 Música: Rap, Rock, Indie e o que vier no aleatório.
