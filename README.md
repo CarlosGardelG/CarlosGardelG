@@ -1,5 +1,4 @@
 ![download (4) (1) (2)](https://github.com/user-attachments/assets/f7de8e5b-79a3-42e7-bff1-7f3c644b0b8b)
-
 # 👋 Olá! Eu sou Carlos Gardel
 
 Seja bem vindo ao meu **GitHub!** 
@@ -9,7 +8,7 @@ Estudante do curso de **Técnico em Informática pelo IFAL**, sou um apaixonado 
 ## 🎧 Sobre mim
 - 🎸 Música: Rap, Rock, Indie e o que vier no aleatório.
 - 🎮 Games: Competitivo e Narrativos.
-- 📚 Entusiasta do conhecimento - podem tirar tudo de você, menos o conhecimento!
+- 📚 Entusiasta do conhecimento - "Podem tirar tudo de você, menos o conhecimento."
 
 ## 💻 Linguagens e Tecnologias
 <div class="icon-list">
@@ -26,4 +25,4 @@ Estudante do curso de **Técnico em Informática pelo IFAL**, sou um apaixonado 
   </a>
 </p> 
 
-## **✝ SOLI DEO GLORIA
+## **✝ SOLI DEO GLORIA**
