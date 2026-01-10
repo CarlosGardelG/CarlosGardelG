@@ -1,10 +1,9 @@
-![download](https://github.com/user-attachments/assets/3b94a8d8-e625-49df-acc3-6aea85eb4c35)
-
+![download](https://github.com/user-attachments/assets/9218d73c-e6a2-4e7d-abe4-312de5392509)
 # 👋 Olá! Eu sou Carlos Gardel
 
 Seja bem vindo ao meu **GitHub!** 
 
-Estudante do curso de **Técnico em Informática pelo IFAL**, sou um apaixonado por tecnologias e me aventuro nesse mundo da programação, com conhecimentos em **Full-Stack**.
+Estudante do curso de **Técnico em Informática pelo IFAL**, sou um apaixonado por tecnologias e me aventuro nesse mundo da programação, com conhecimentos em **Full-Stack**. !
 
 ## 🎧 Sobre mim
 - 🎸 Música: Rap, Rock, Indie e o que vier no aleatório.
