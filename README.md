@@ -1,4 +1,5 @@
-![download](https://github.com/user-attachments/assets/9218d73c-e6a2-4e7d-abe4-312de5392509)
+![download (4) (1) (2)](https://github.com/user-attachments/assets/f7de8e5b-79a3-42e7-bff1-7f3c644b0b8b)
+
 # 👋 Olá! Eu sou Carlos Gardel
 
 Seja bem vindo ao meu **GitHub!** 
