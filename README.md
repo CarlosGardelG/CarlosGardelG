@@ -3,16 +3,15 @@
 
 Seja bem vindo ao meu **GitHub!** 
 
-Estudante do curso de **Técnico em Informática pelo IFAL**, sou um amante por tecnologias e me aventuro nesse mundo da programação com conhecimentos em **Back-End**. !
+Estudante do curso de **Técnico em Informática pelo IFAL**, sou um amante por tecnologias e conhecedor desse mundo da programação, com conhecimentos que abrangem tanto o **Back-End** como o **Front-End**!
 
 ## 🎧 Sobre mim
 - 🎸 Música: Rap, Rock, Indie e o que vier no aleatório.
-- 🎮 Games: Competitivo e Narrativos.
 - 📚 Entusiasta do conhecimento - "Podem tirar tudo de você, menos o conhecimento."
 
 ## 💻 Linguagens e Tecnologias
 <div class="icon-list">
-    <img src="https://skillicons.dev/icons?i=py,java,mysql,git,github" />
+    <img src="https://skillicons.dev/icons?i=py,java,dart,flutter,html,css,javascript,mysql,git,github" />
 </div>
 
 ## 📬 Contato
