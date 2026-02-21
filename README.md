@@ -11,7 +11,7 @@ Estudante do curso de **Técnico em Informática pelo IFAL**, sou um amante por 
 
 ## 💻 Linguagens e Tecnologias
 <div class="icon-list">
-    <img src="https://skillicons.dev/icons?i=py,java,mysql,git,github" />
+    <img src="https://skillicons.dev/icons?i=py,java,dart,mysql,git,github" />
 </div>
 
 ## 📬 Contato
